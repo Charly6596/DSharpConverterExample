@@ -104,7 +104,7 @@ public async Task ShowProfile(CommandContext context, CustomUser user)
 
 ## Authors
 
-* **Charly6596** - _CommandService extensions and default embed generation_ - [Github profile](https://github.com/Charly6596) - Discord: Charly#7094
+* **Charly6596** - [Github profile](https://github.com/Charly6596) - Discord: Charly#7094
 
 ## Bibliography and sources
 
